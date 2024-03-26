@@ -1,0 +1,19 @@
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\bin\Debug\net6.0-windows\Pizza Ordering And Delivery system.exe
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\bin\Debug\net6.0-windows\Pizza Ordering And Delivery system.deps.json
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\bin\Debug\net6.0-windows\Pizza Ordering And Delivery system.runtimeconfig.json
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\bin\Debug\net6.0-windows\Pizza Ordering And Delivery system.dll
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\bin\Debug\net6.0-windows\Pizza Ordering And Delivery system.pdb
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\obj\Debug\net6.0-windows\Pizza Ordering And Delivery system.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\obj\Debug\net6.0-windows\Pizza_Ordering_And_Delivery_system.Form1.resources
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\obj\Debug\net6.0-windows\Pizza Ordering And Delivery system.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\obj\Debug\net6.0-windows\Pizza Ordering And Delivery system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\obj\Debug\net6.0-windows\Pizza Ordering And Delivery system.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\obj\Debug\net6.0-windows\Pizza Ordering And Delivery system.AssemblyInfo.vb
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\obj\Debug\net6.0-windows\Pizza Ordering And Delivery system.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\obj\Debug\net6.0-windows\Pizza Ordering And Delivery system.dll
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\obj\Debug\net6.0-windows\refint\Pizza Ordering And Delivery system.dll
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\obj\Debug\net6.0-windows\Pizza Ordering And Delivery system.pdb
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\obj\Debug\net6.0-windows\Pizza Ordering And Delivery system.genruntimeconfig.cache
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\obj\Debug\net6.0-windows\ref\Pizza Ordering And Delivery system.dll
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\obj\Debug\net6.0-windows\Pizza_Ordering_And_Delivery_system.Form2.resources
+C:\Users\User\Desktop\visual project Team project\Pizza Ordering And Delivery system\Pizza Ordering And Delivery system\obj\Debug\net6.0-windows\Pizza_Ordering_And_Delivery_system.Resources.resources

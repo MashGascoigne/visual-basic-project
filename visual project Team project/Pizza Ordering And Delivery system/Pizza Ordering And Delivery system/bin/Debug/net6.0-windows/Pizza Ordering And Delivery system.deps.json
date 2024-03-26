@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pizza Ordering And Delivery system/1.0.0": {
+        "runtime": {
+          "Pizza Ordering And Delivery system.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pizza Ordering And Delivery system/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
